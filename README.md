@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumithsingh
 - 👀 I’m interested in programming and learning new skills
-- 🌱 I’m currently learning xml and python
+- 🌱 I’m currently learning sql and python
 - 💞️ I’m looking to collaborate on Good project.
 - 📫 How to reach me mail : sumithsingh27@gmail.com
 
