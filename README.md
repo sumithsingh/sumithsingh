@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sumithsingh
 - 👀 I’m interested in programming and learning new skills
-- 🌱 I’m currently learning sql and python
+- 🌱 I’m currently learning Deep Learning.
+- 👀 T'm looking for Internship in Data science.
 - 💞️ I’m looking to collaborate on Good project.
 - 📫 How to reach me mail : sumithsingh27@gmail.com
 
