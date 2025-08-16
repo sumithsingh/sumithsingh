@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDkwcjdkbGNxcDBhMWJjaWY1NHZtazV2dm1udGV4cjhmdGc2YnczaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100%"/>
+  <img src="https://github.com/sumithsingh/sumithsingh/blob/main/giphy.gif" width="50%"/>
 </div>
 
 <div align="center">
